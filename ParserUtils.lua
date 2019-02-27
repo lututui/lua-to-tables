@@ -21,3 +21,13 @@ function pairsByKeys (t, f)
     end
     return iter
 end
+
+function tableKeyMapDeconstruct(map, i)
+	local newMap = {}
+	
+	for j, x in pairs(map) do
+		newMap[j[i]] = x
+	end
+	
+	return newMap
+end

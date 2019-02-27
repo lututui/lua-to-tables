@@ -20,3 +20,8 @@ Made by @lututui
 
 Converts stateiconinfo table to statusnametable.txt
 Made by @lututui
+
+# PARSE_OPTIONNAME
+
+Converts addrandomoptionnametable table to item_options.txt
+Made by @lututui
