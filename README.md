@@ -25,3 +25,8 @@ Made by @lututui
 
 Converts addrandomoptionnametable table to item_options.txt
 Made by @lututui
+
+# PARSE_EFSTIDS
+
+Converts efstids table to STATUS_id_handle.txt
+Made by @lututui

@@ -8,6 +8,19 @@ function reverseMap(map)
 	return newMap
 end
 
+function filterByValueType(map, fType)
+	local newMap = {}
+	fType = fType or "number"
+	
+	for k, v in pairs(map) do
+		if (type(v) == fType) then
+			newMap[k] = v
+		end
+	end
+	
+	return newMap
+end
+
 function pairsByKeys (t, f)
     local a = {}
     for n in pairs(t) do table.insert(a, n) end
