@@ -30,3 +30,8 @@ Made by @lututui
 
 Converts efstids table to STATUS_id_handle.txt
 Made by @lututui
+
+# PARSE_ITEMOPTIONS
+
+Converts randomoptions table to item_options.txt and ITEMOPTION_id_handle.txt
+Made by @alisonrag
