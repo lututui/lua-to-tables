@@ -30,3 +30,8 @@ Made by @lututui
 
 Converts efstids table to STATUS_id_handle.txt
 Made by @lututui
+
+# PARSE_QUESTINFOLIST
+
+Converts QuestInfoList table to quests.txt
+Made by @alisonrag
