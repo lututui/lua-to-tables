@@ -30,3 +30,8 @@ Made by @lututui
 
 Converts efstids table to STATUS_id_handle.txt
 Made by @lututui
+
+# PARSE_HATEFFECTINFO
+
+Converts HatEFID table to hateffect_id_handle.txt and hateffect_name.txt
+Made by @AlisonRag
